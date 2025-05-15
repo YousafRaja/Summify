@@ -158,7 +158,3 @@ The application uses the standard `log` package. Log messages include timestamps
 * Unit and integration tests.
 * Packaging as a distributable binary for different operating systems.
 
-## Troubleshooting
-
-* **`YOUTUBE_API_KEY` or `GEMINI_API_KEY` not set:** Ensure these are correctly set in your `.env` file or as system environment variables.
-* **`yt-dlp
